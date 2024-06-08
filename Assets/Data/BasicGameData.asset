@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed13d1fcdce16404d8d1cecfeb81b3cd, type: 3}
+  m_Name: BasicGameData
+  m_EditorClassIdentifier: 
+  SecretSize: 4
+  NumberOfGuess: 10
+  Options:
+  - {fileID: 21300000, guid: cc48b9c090849254086c691373a6989a, type: 3}
+  - {fileID: 21300000, guid: f2746712ad535d74599358bc5a1300a3, type: 3}
+  - {fileID: 21300000, guid: 82803261fee730540aeacf4517659286, type: 3}
+  - {fileID: 21300000, guid: db549aac1ed568e489b346dbe032bd8a, type: 3}
+  - {fileID: 21300000, guid: 2fde23eb678240b449517243ad110eb1, type: 3}
+  - {fileID: 21300000, guid: 07b410bd091a8054c89770c18a5390fe, type: 3}
